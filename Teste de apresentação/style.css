@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+}
+
+body{
+    max-width: 1100px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img{
+    max-width: 500px;
+}
+
+ul{
+    list-style: none;
+}
